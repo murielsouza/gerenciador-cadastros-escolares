@@ -1,6 +1,8 @@
 # gerenciador-cadastros-escolares
 interface gráfica para gerenciamento de cadastros e matriculas escolares
 
+trabalho relacionado a disciplina Linguagem de Programação Orientada a Objetos / LPOO (2017.1)
+
 Para os cursos é importante armazenar o código, nome, valor do crédito e a área de conhecimento(*).
 	As áreas do conhecimento são:  Ciências Agrárias; Ciências Biológicas e da Saúde; Ciências Exatas e Tecnológicas; e Ciências Humanas e Sociais.
 As informações necessárias para professores são cgu (código inteiro), nome, curso(**), carga horária semanal e valor da hora aula. O coordenador é um tipo de professor que, além das informações indicadas, possui ainda o percentual de gratificação que é acrescentado ao salário. Para cada professor, deve ser possível realizar o cálculo do salário, sendo que o valor da hora é um atributo de classe (mesmo para todos os professores).
